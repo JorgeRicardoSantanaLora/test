@@ -1,0 +1,31 @@
+C:\Users\JorgeRicardoSantanaL\OneDrive - Gorico Advisory Group\Desktop\Personal\Ejemplo ASP\GORICO TEST\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\JorgeRicardoSantanaL\OneDrive - Gorico Advisory Group\Desktop\Personal\Ejemplo ASP\GORICO TEST\bin\Debug\net6.0\appsettings.json
+C:\Users\JorgeRicardoSantanaL\OneDrive - Gorico Advisory Group\Desktop\Personal\Ejemplo ASP\GORICO TEST\bin\Debug\net6.0\GORICO TEST.staticwebassets.runtime.json
+C:\Users\JorgeRicardoSantanaL\OneDrive - Gorico Advisory Group\Desktop\Personal\Ejemplo ASP\GORICO TEST\bin\Debug\net6.0\GORICO TEST.exe
+C:\Users\JorgeRicardoSantanaL\OneDrive - Gorico Advisory Group\Desktop\Personal\Ejemplo ASP\GORICO TEST\bin\Debug\net6.0\GORICO TEST.deps.json
+C:\Users\JorgeRicardoSantanaL\OneDrive - Gorico Advisory Group\Desktop\Personal\Ejemplo ASP\GORICO TEST\bin\Debug\net6.0\GORICO TEST.runtimeconfig.json
+C:\Users\JorgeRicardoSantanaL\OneDrive - Gorico Advisory Group\Desktop\Personal\Ejemplo ASP\GORICO TEST\bin\Debug\net6.0\GORICO TEST.dll
+C:\Users\JorgeRicardoSantanaL\OneDrive - Gorico Advisory Group\Desktop\Personal\Ejemplo ASP\GORICO TEST\bin\Debug\net6.0\GORICO TEST.pdb
+C:\Users\JorgeRicardoSantanaL\OneDrive - Gorico Advisory Group\Desktop\Personal\Ejemplo ASP\GORICO TEST\obj\Debug\net6.0\GORICO TEST.csproj.AssemblyReference.cache
+C:\Users\JorgeRicardoSantanaL\OneDrive - Gorico Advisory Group\Desktop\Personal\Ejemplo ASP\GORICO TEST\obj\Debug\net6.0\GORICO TEST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JorgeRicardoSantanaL\OneDrive - Gorico Advisory Group\Desktop\Personal\Ejemplo ASP\GORICO TEST\obj\Debug\net6.0\GORICO TEST.AssemblyInfoInputs.cache
+C:\Users\JorgeRicardoSantanaL\OneDrive - Gorico Advisory Group\Desktop\Personal\Ejemplo ASP\GORICO TEST\obj\Debug\net6.0\GORICO TEST.AssemblyInfo.cs
+C:\Users\JorgeRicardoSantanaL\OneDrive - Gorico Advisory Group\Desktop\Personal\Ejemplo ASP\GORICO TEST\obj\Debug\net6.0\GORICO TEST.csproj.CoreCompileInputs.cache
+C:\Users\JorgeRicardoSantanaL\OneDrive - Gorico Advisory Group\Desktop\Personal\Ejemplo ASP\GORICO TEST\obj\Debug\net6.0\GORICO TEST.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\JorgeRicardoSantanaL\OneDrive - Gorico Advisory Group\Desktop\Personal\Ejemplo ASP\GORICO TEST\obj\Debug\net6.0\GORICO TEST.RazorAssemblyInfo.cache
+C:\Users\JorgeRicardoSantanaL\OneDrive - Gorico Advisory Group\Desktop\Personal\Ejemplo ASP\GORICO TEST\obj\Debug\net6.0\GORICO TEST.RazorAssemblyInfo.cs
+C:\Users\JorgeRicardoSantanaL\OneDrive - Gorico Advisory Group\Desktop\Personal\Ejemplo ASP\GORICO TEST\obj\Debug\net6.0\staticwebassets\msbuild.GORICO TEST.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\JorgeRicardoSantanaL\OneDrive - Gorico Advisory Group\Desktop\Personal\Ejemplo ASP\GORICO TEST\obj\Debug\net6.0\staticwebassets\msbuild.build.GORICO TEST.props
+C:\Users\JorgeRicardoSantanaL\OneDrive - Gorico Advisory Group\Desktop\Personal\Ejemplo ASP\GORICO TEST\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GORICO TEST.props
+C:\Users\JorgeRicardoSantanaL\OneDrive - Gorico Advisory Group\Desktop\Personal\Ejemplo ASP\GORICO TEST\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GORICO TEST.props
+C:\Users\JorgeRicardoSantanaL\OneDrive - Gorico Advisory Group\Desktop\Personal\Ejemplo ASP\GORICO TEST\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\JorgeRicardoSantanaL\OneDrive - Gorico Advisory Group\Desktop\Personal\Ejemplo ASP\GORICO TEST\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\JorgeRicardoSantanaL\OneDrive - Gorico Advisory Group\Desktop\Personal\Ejemplo ASP\GORICO TEST\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\JorgeRicardoSantanaL\OneDrive - Gorico Advisory Group\Desktop\Personal\Ejemplo ASP\GORICO TEST\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\JorgeRicardoSantanaL\OneDrive - Gorico Advisory Group\Desktop\Personal\Ejemplo ASP\GORICO TEST\obj\Debug\net6.0\scopedcss\bundle\GORICO TEST.styles.css
+C:\Users\JorgeRicardoSantanaL\OneDrive - Gorico Advisory Group\Desktop\Personal\Ejemplo ASP\GORICO TEST\obj\Debug\net6.0\scopedcss\projectbundle\GORICO TEST.bundle.scp.css
+C:\Users\JorgeRicardoSantanaL\OneDrive - Gorico Advisory Group\Desktop\Personal\Ejemplo ASP\GORICO TEST\obj\Debug\net6.0\GORICO TEST.dll
+C:\Users\JorgeRicardoSantanaL\OneDrive - Gorico Advisory Group\Desktop\Personal\Ejemplo ASP\GORICO TEST\obj\Debug\net6.0\refint\GORICO TEST.dll
+C:\Users\JorgeRicardoSantanaL\OneDrive - Gorico Advisory Group\Desktop\Personal\Ejemplo ASP\GORICO TEST\obj\Debug\net6.0\GORICO TEST.pdb
+C:\Users\JorgeRicardoSantanaL\OneDrive - Gorico Advisory Group\Desktop\Personal\Ejemplo ASP\GORICO TEST\obj\Debug\net6.0\GORICO TEST.genruntimeconfig.cache
+C:\Users\JorgeRicardoSantanaL\OneDrive - Gorico Advisory Group\Desktop\Personal\Ejemplo ASP\GORICO TEST\obj\Debug\net6.0\ref\GORICO TEST.dll
